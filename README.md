@@ -8,5 +8,7 @@ Resources
 ---------
 
 Love -- https://love2d.org/
+
 Sounds -- http://mitchellthompson.net/
+
 Font -- http://www.dafont.com/ralph-oliver-du-carrois.d1390
