@@ -67,7 +67,7 @@ end
 
 -- Other functions
 
--- Get a random wait interval but normall distributed, 
+-- Get a random wait interval but normal distributed, 
 -- essentially a hacked Box-Muller transform.
 
 function get_random_internal()
